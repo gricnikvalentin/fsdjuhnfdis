@@ -58,7 +58,7 @@
 }
 
 .container {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     position: relative;
 }
 .navbar-brand {
@@ -68,6 +68,7 @@
 ul {
     list-style-position: inside;
 }
+
 
 .form-group {
     margin: 10px 0px 10px;
@@ -126,6 +127,17 @@ ul {
     display: -webkit-flex;
     flex-wrap: wrap;
   }
+  #predstavitvenaSlika1{
+    padding: 15px 15px 15px;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4);
+    -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    margin-top: 55px;
+    margin-bottom: 15px;
+    width:100%;
+    height:auto;
+  }
   #predstavitvenaSlika{
     padding: 15px 15px 15px;
     background-color: white;
@@ -134,7 +146,7 @@ ul {
     -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
     margin-top: 15px;
     margin-bottom: 15px;
-    height: 375px;
+    height:450px;
   }
 
 
@@ -147,8 +159,9 @@ ul {
     margin-left:5px
   }
   #aktPic {
-    width:49%;
-    height:150px;
+    width:150px;
+    height:auto;
+    margin-left:3%;
 }
 
 #razkuzilo {
@@ -171,7 +184,12 @@ li {
     list-style: none;
 }
 
+.row {
+    margin-bottom:10px;
+}
 
 
-
-
+#zastopamoText {
+    margin-top:5%;
+    margin-left: 180px;
+}
