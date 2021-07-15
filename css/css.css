@@ -198,3 +198,7 @@ li {
     text-decoration: none;
     color:inherit;
 }
+
+.nav-item {
+    list-style: none;
+}
