@@ -146,7 +146,8 @@ ul {
     -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
     margin-top: 15px;
     margin-bottom: 15px;
-    height:450px;
+    height:auto;
+    width:100%;
   }
 
 
@@ -201,4 +202,8 @@ li {
 
 .nav-item {
     list-style: none;
+}
+
+#visinaZaSlike {
+    height: 650px;
 }
