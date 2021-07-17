@@ -135,7 +135,7 @@ ul {
     -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
     margin-top: 55px;
     margin-bottom: 15px;
-    width:100%;
+    width:auto;
     height:auto;
   }
   #predstavitvenaSlika{
@@ -207,3 +207,4 @@ li {
 #visinaZaSlike {
     height: 650px;
 }
+
