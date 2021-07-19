@@ -152,7 +152,7 @@ ul {
 
 
   .clanek {
-      width:49%;
+      width:100%;
     background: #efefef;
   }
 
@@ -160,10 +160,12 @@ ul {
     margin-left:5px
   }
   #aktPic {
-    width:150px;
+    width:75%;
     height:auto;
-    margin-left:3%;
+    margin-left: 12.5%;
 }
+
+
 
 #razkuzilo {
     padding: 15px 15px 15px;
@@ -173,7 +175,8 @@ ul {
     -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
     margin-top: 15px;
     margin-bottom: 15px;
-    height: 255px;
+    height: auto;
+    width:49%;
 }
 
 p {
